@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "DisplayName": "",
+    "EnableVerification": true,
+    "From": "",
+    "Host": "",
+    "Password": "",
+    "Port": 587,
+    "UserName": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Infrastructure.Sample",
+    "Version": "v1",
+    "Description": "",
+    "ContactName": "Rob",
+    "ContactEmail": "Rob@SomeEmail.com",
+    "ContactUrl": ""
+  }
+}
