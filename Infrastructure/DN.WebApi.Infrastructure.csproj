@@ -12,7 +12,8 @@
     <PackageLicenseFile>MIT.txt</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Authors>Nagesh </Authors>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+    <PackageProjectUrl>https://github.com/NageshKorimi/DN.WebApi.Infrastructure</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="License.txt" />
